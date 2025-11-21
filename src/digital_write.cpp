@@ -1,14 +1,14 @@
-#include <Arduino.h>
+// #include <Arduino.h>
 
-const int ledPin = 9;
+// const int ledPin = 9;
 
-void setup() {
-    pinMode(ledPin, OUTPUT);
-}
+// void setup() {
+//     pinMode(ledPin, OUTPUT);
+// }
 
-void loop() {
-    digitalWrite(ledPin, HIGH);
-    delay(500);
-    digitalWrite(ledPin,LOW);
-    delay(500);
-}
+// void loop() {
+//     digitalWrite(ledPin, HIGH);
+//     delay(500);
+//     digitalWrite(ledPin,LOW);
+//     delay(500);
+// }
